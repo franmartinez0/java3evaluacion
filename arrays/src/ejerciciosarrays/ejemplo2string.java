@@ -10,7 +10,7 @@ System.out.println(cadena.substring(8,"www.iesjaroso.es".length()));
 System.out.println(cadena.substring(0,8));
 
 
-
+//lo he metio de gratis
 
 	}
 
